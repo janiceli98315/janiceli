@@ -1,18 +1,16 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Jiafeng (Janice) Li
+description: Statistical Analyst
+site_title: '@JaniceLi'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: janiceli98315
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+email: janiceli98315@gmail.com
+
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
