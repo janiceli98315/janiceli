@@ -23,7 +23,7 @@ function blog_posts() {
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
         {
-            url: 'wonderland/blob/master/_includes/Teaching%20Assistant.html',
+            url: 'https://github.com/janiceli98315/wonderland/blob/master/_includes/Teaching%20Assistant.html',
             title: 'University of California, Davis - Teaching Assistant',
         },
         {
