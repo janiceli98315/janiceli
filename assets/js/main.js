@@ -23,7 +23,7 @@ function blog_posts() {
     // keeping it static, can be fetched from a blog dynamically as well
     let posts = [
         {
-            url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
+            url: '_includes/Teaching Assistant.html',
             title: 'University of California, Davis - Teaching Assistant',
         },
         {
