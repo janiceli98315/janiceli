@@ -24,19 +24,19 @@ function blog_posts() {
     let posts = [
         {
             url: 'https://www.nagekar.com/2017/02/trip-to-bramhatal-uttarakhand.html',
-            title: 'University of California, Davis - <strong>Teaching Assistant',
+            title: 'University of California, Davis - **Teaching Assistant**',
         },
         {
             url: 'https://www.nagekar.com/2017/08/privacy.html',
-            title: 'University of California, Davis - <strong>Student Assistant',
+            title: 'University of California, Davis - **Student Assistant**',
         },
         {
             url: 'https://www.nagekar.com/2018/01/jagriti-yatra.html',
-            title: 'Yoren Information Technology (Shanghai) Co., Ltd. - <strong>Data Analyst Intern',
+            title: 'Yoren Information Technology (Shanghai) Co., Ltd. - **Data Analyst Intern**',
         },
         {
             url: 'https://www.nagekar.com/2017/08/private-cloud-part-2.html',
-            title: 'HistoBridge LLC - <strong>Research Assistant',
+            title: 'HistoBridge LLC - **Research Assistant**',
         },
     ];
 
